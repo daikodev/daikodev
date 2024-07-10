@@ -10,10 +10,6 @@
 
 <p align="left">
 🎓 DESARROLLADOR DE SOFTWARE
-
-💻 Estudiante de la carrera de Gestion de Sistemas de Información
-
-📫 Contacto: **unsimpledev@gmail.com**
 <!--Intro end-->
   </p>
 <br>
