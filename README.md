@@ -14,5 +14,4 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,postman,mysql,docker,git,github,py" />
   </a>
 </p>
-<br>
 <!-------------------------->
