@@ -1,13 +1,11 @@
-<h1 align="center">Hola, soy Daniel 👋  </h1> 
-
-<h2>Sobre mi 😃</h2>
+<h1 align="left">Hola, soy Daniel👋  </h1> 
 <!--Intro start-->
 
 <p align="left">
-🎓 DESARROLLADOR DE SOFTWARE
+  <p>🎓 Soy un desarrollador apasionado por crear soluciones web efectivas y elegantes. Principalmente trabajo con Java, pero también tengo experiencia con HTML, CSS, JavaScript y React. Me encanta explorar nuevas tecnologías y mejorar mis habilidades a través de proyectos desafiantes.</p>
 <!--Intro end-->
+  🚀 Siempre en busca de oportunidades para colaborar y crear aplicaciones innovadoras
   </p>
-<br>
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
