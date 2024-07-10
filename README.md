@@ -1,6 +1,5 @@
 <h1 align="center">Hola, soy Daniel 👋  </h1> 
 
-<br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
