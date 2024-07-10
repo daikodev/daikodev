@@ -1,18 +1,10 @@
-<h1 align="center">Hola 👋  soy Daniel </h1> 
+<h1 align="left">Hola, soy Daniel 👋 </h1> 
 
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 ...
-
-🎥 ...
-
-💻 ...
-
-📝 ...
-
-📫 Contacto: **...**
+...
 <!--Intro end-->
   </p>
 <br>
