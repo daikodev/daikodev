@@ -1,4 +1,4 @@
-<h1 align="left">Daiko -💻Software Developer</h1>
+<h1 align="left">💻 Daiko - Software Developer</h1>
 
 ###
 
